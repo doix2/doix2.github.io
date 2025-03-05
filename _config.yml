@@ -13,7 +13,7 @@ title                    : "d0ix2 archieve"
 title_separator          : "-"
 name                     : &name "doi"
 description              : &description "Front-End Engineer"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://d0ix2.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "d0ix2/d0ix2.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "doi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Front-End Engineer"
   location         : "Tokyo, Japan"
   employer         : # "Red Brick University"
   uri              : # URL
