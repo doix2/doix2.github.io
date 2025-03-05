@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "ko-KR"
 site_theme               : "default"
-title                    : "doix2 archieve"
+title                    : "d0ix2 archieve"
 title_separator          : "-"
-name                     : &name "Doi"
+name                     : &name "doi"
 description              : &description "Front-End Engineer"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "d0ix2/d0ix2.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Doi"
+  name             : "doi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Tokyo, Japan"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "doix2"
+  github           : "d0ix2"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "doix2"
+  instagram        : "d0ix2"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
